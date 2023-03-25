@@ -1,4 +1,4 @@
-<h1 id="title" align="center">Transborder Tourism's Dashboard</h1>
+<h1 id="title" align="center">Coming Soon Shop</h1>
 
 <p align="center"><img src="https://socialify.git.ci/mostafakamal22/base-apparel-coming-soon-master/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
