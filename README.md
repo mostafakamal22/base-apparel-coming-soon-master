@@ -24,8 +24,6 @@ Here're some of the project's best features:
 *   Landing Page
 *   UI/UX
 
-<h2>🛠️ Installation Steps:</h2>
-
   
   
 <h2>💻 Built with</h2>
