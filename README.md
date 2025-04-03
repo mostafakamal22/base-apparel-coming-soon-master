@@ -8,13 +8,7 @@
 
 [https://mostafakamal22.github.io/coming-soon-shop/](https://mostafakamal22.github.io/coming-soon-shop/)
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://mostafakamal22.github.io/coming-soon-shop//design/desktop-design.jpg" alt="project-screenshot" width="100%" height="100%">
-
-<img src="https://mostafakamal22.github.io/coming-soon-shop//design/mobile-design.jpg" alt="project-screenshot" width="375" height="700">
-
-  
+ 
   
 <h2>🧐 Features</h2>
 
